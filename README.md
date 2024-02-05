@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/fihashim/serious-sql/assets/42868568/5a546da5-e5e6-48a2-b5a4-a2c7e5cc5d17" width="350">
+<img src="https://github.com/fihashim/serious-sql/assets/42868568/5a546da5-e5e6-48a2-b5a4-a2c7e5cc5d17" width="250">
 </p>
 
 # Serious SQL Data Apprenticeship
