@@ -1,6 +1,6 @@
-<div>
-<img src="serious-sql/data-with-danny-logo.png" width="250"/>
-</div>
+<p align="center">
+<img src="https://github.com/fihashim/serious-sql/assets/42868568/5a546da5-e5e6-48a2-b5a4-a2c7e5cc5d17" width="350">
+</p>
 
 # Serious SQL Data Apprenticeship
 Created by [Danny Ma](https://www.datawithdanny.com/), the Serious SQL Data Apprenticeship is a structured SQL learning path combined with practical hands-on experience. Throughout this repository, end-to-end case studies and challenging data projects are solved from the following domains:
